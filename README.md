@@ -14,7 +14,7 @@ This project is a sentiment analysis of user reviews for the game **Genshin Impa
     - Linear kernel
     - RBF kernel
     - Polynomial kernel
-  - Class balancing using `random oversampling'`
+  - Class balancing using `random oversampling`
 
 ## 📊 Dataset Summary
 
@@ -28,7 +28,7 @@ This project is a sentiment analysis of user reviews for the game **Genshin Impa
 ## 📈 Model Evaluation
 
 - Metrics Used: Accuracy, Precision, Recall, F1-Score
-- Best performance achieved by the **SVM with RBF kernel** after TF-IDF and class weight balancing.
+- Best performance achieved by the **SVM with RBF kernel** after TF-IDF and class balancing on training.
 
 ## 🧪 Libraries Used
 
