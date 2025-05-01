@@ -55,7 +55,6 @@ This project is part of an undergraduate thesis in Data Science, focusing on sen
 - `sentiment_analysis_genshin.ipynb`: Full pipeline including preprocessing, modeling, and evaluation
 - `requirements.txt`: List of Python dependencies
 - `data/`: *(Not included due to privacy)* — contains labeled review dataset
-- `images/`: Contains visualizations and evaluation charts
 
 ## 🚀 Getting Started
 
