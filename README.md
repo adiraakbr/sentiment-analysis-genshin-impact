@@ -62,7 +62,7 @@ To run this notebook locally:
 
 ```bash
 git clone https://github.com/yourusername/sentiment-analysis-genshin.git
-cd sentiment-analysis-genshin
+cd sentiment-analysis-genshinimpact
 pip install -r requirements.txt
 jupyter notebook
 ```
